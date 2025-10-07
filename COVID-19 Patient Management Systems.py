@@ -1,5 +1,5 @@
 #VISHAL MAHESHWARI
-#TP059068
+#COVID-19 Patient Management Systems
 
 #this is the main menu where everything is combined
 def main():
@@ -426,4 +426,5 @@ def deceasedPatients():
 
 #calling the main menu function    
 main()
+
 
