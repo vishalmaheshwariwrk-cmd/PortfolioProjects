@@ -1,3 +1,34 @@
+/*
+📊 Data Exploration in SQL — COVID-19 Cases, Deaths & Vaccinations
+Overview
+Exploratory analysis of the COVID-19 deaths and vaccinations datasets in SQL Server to understand infection rates, mortality, regional differences, and vaccination progress. 
+The work prepares clean, queryable outputs for BI tools (Power BI/Tableau) and demonstrates practical SQL for analytics.
+
+What I did
+Profiled core fields (location, date, total_cases, new_cases, total_deaths, population).
+Case fatality analysis: total_deaths / total_cases * 100 to estimate mortality risk (country-level and over time).
+Infection penetration: total_cases / population * 100 to measure % of population infected; identified highest infection rates by country.
+Severity ranking: Calculated max death counts and continent-level totals to compare regional impact.
+Global trendlines: Aggregated new_cases and new_deaths by date to track worldwide surges and the global death percentage over time.
+Vaccination progress: Joined Deaths and Vaccinations by location+date and built a rolling cumulative sum of new_vaccinations using a window function to approximate % population vaccinated.
+
+Reusable assets:
+Built a CTE for readability and step-wise derivations.
+Created a temp table for quick ad-hoc exploration.
+Published a view (PercentPopulationVaccinated) for downstream visualisations.
+Data hygiene: Filtered out non-country aggregates (continent IS NOT NULL) and handled type issues with explicit CAST/CONVERT.
+
+Techniques & SQL Concepts
+JOINs, GROUP BY aggregates, window functions (ROW_NUMBER, SUM() OVER (PARTITION BY … ORDER BY …)), CTEs, temp tables, views, type conversions, date-wise rollups, and ranking.
+
+Outcome
+Produced queryable tables/views that surface:
+% population infected and case fatality by country/continent
+Countries with highest infection rates and highest deaths
+Global daily trendlines for cases and deaths
+Cumulative vaccinations and % of population vaccinated over time
+These outputs feed cleanly into BI dashboards for monitoring spread, severity, and vaccination impact.
+*/
 Select *
 From PortfolioProject..CovidDeaths
 where continent is not null
@@ -171,3 +202,4 @@ SELECT * FROM PercentPopulationVaccinated; -- to view everything from table
 SELECT name, SCHEMA_NAME(schema_id) AS schema_name
 FROM sys.views
 WHERE name = 'PercentPopulationVaccinated';
+
