@@ -1,0 +1,173 @@
+FSD ASSIGNMENT
+
+5 priority groups 
+
+Group 							
+
+Asymptomatic individuals with history of travelling overseaes (ATO):- individuals had travlled to countries with high amount of cases but no symptoms
+
+Asymptomatic individuals with history of contact with known case of COVID-19(ACC):- These individuals had close contact wiith active patients but no symptoms
+
+Asymptomatic individuals who had attended event associated with known COVID-19 outbreak(AEO):- These individuals had attended event associated with known COVID-19 outbreak but do not show any symptoms
+
+Asymptomatic hospital staff(AHS):- Hospital staff who have not show any symptoms
+
+Symptomatic individuals(SID):_ Individuals who have shown COVID-19 symptoms
+
+
+***3 tests need to be taken in a 14 day period***
+***IF NEGATIVE MOVE TO NEXT TEST***
+GROUP	TEST 1(P/N)	TEST 2(P/N)	TEST 3(P/N)
+ATO	QNHF/QDFR	QNHF/QDFR	QHNF/RU
+ACC	QNHF/QDFR	QNHF/QDFR	QHNF/RU
+AEO	QNHF/QDFR	QNHF/QDFR	QHNF/RU
+SID	QNHF/HQFR	QNHF/HQFR	QNHF/RU
+AHS	HQNF/CWFR	HQNF/CWFR	HQNF/CW
+_______________________________________________________________
+QNHF-Quarantine in hospital normal ward or ICU (NO follow-up test required) 
+HQNF- Home quarantine (NO follow up test required)
+QDFR- Quarantine in designated centres (follow-Up test REQUIRED)
+HQFR- Home quaantine (follow up ttest REQUIRED)
+CWFR- Continue working (follow-up test REQUIRED)
+RU- Allow to reunion with family 
+________________________________________________________________
+
+FIRST TEST
+
+Positive
+normal person positive - admit in hospital in NORMAL WARD(NW) OR INTENSE CARE UNIT (ICU)
+Staff- undergo home quarantine 
+
+Negative (advance to level 2)
+normal person- QDFR or HQFR
+staff- CWFR
+
+SECOND TEST 
+
+Positive
+normal person positive - admit in hospital in NORMAL WARD(NW) OR INTENSE CARE UNIT (ICU)
+Staff- undergo home quarantine 
+
+Negative (advance to level 3)
+normal person- QDFR or HQFR
+staff- CWFR
+
+12-13 days after 1st 
+THIRD TEXT 
+
+Positive
+normal person- QNHF 
+staff-HQFR
+
+Negative 
+normal person- RU
+staff- Continue working 
+________________________________________________________________
+1. New Registration :- only done once before test 1 and each entry saved in a txt file+
+		give unique pateint id +
+		+get patients details (Name, group and zone(A,B,C,D), contact number, email address, blood group, height, weight, current date)
+
+2. Testing and action:- call the data by the patents unique id+
+		display if patient positive ot negative +
+		no test for people who are positive +
+		advance to test 3 for negative people+
+
+3.setting of patients status:- (ACTIVE/REVOUVERED/ DECEASED)+++
+			if ACTIVE patient has recovered set status to RECOVERED 
+			If ACTIVE patient has died set status to DECEASED
+
+4. Program should be able to print the total number of: 
+					test carried out for each (T1, T2, T3)
+					number of patients tested done
+					Recovered cases done
+					Patients test positive for COVID group wise done
+					Active cases zone wise done
+
+ 5. Search functions:- when searched for patients id or name record should show
+		status of a particular case when searched by case id 
+		patients records of all deceased patients 
+___________________________________________________________________________________________
+class patients():#parent classs
+    def __init__(self,pId,pType,pGroup,pZone,pName,pAge,pBg,pHeight,pWeight,pCn,pEa,date,pStatus,pCaseId):
+        self.__pId= pId
+        self.__pType=pType
+        self.__pGroup=pGroup
+        self.__pZone=pZone
+        self.__pName=pName
+        self.__pBg=pBg
+        self.__pHeight=pHeight
+        self.__pWeight=pWeight
+        self.__pCn=pCn
+        self.__pEa=pEa
+        self.__date=date
+        self.__pStatus=pStatus
+        self.__pCaseId=pCaseId
+        self.__pAge=pAge
+
+    def getpId(self):
+        return self.__pId
+    def getpType(self):
+        return self.__pType
+    def getpGroup(self):
+        return self.__pGroup
+    def getpZone(self):
+        return self.__pZone
+    def getpName(self):
+        return self.__pName
+    def getpBg(self):
+        return self.__pBg
+    def getpHeight(self):
+        return self.__pHeight
+    def getpWeight(self):
+        return self.__pWeight
+    def getpCn(self):
+        return self.__pCn
+    def getpEa(self):
+        return self.__pEa
+    def getdate(self):
+        return self.__date
+    def getpStatus(self):
+        return self.__pStatus
+    def getpCaseId(self):
+        return self.__pCaseId
+    def getpAge(self):
+        return self.__pAge
+
+    def setpId(self,newId):
+        self.__pId=newId
+    def setpType(self,newpType):
+        self.__pType=newpType
+    def setpGroup(self,newpGroup):
+        self.__pGroup=newpGroup
+    def setpZone(self,newpZone):
+        self.__pZone=newpZone
+    def setpName(self,newpName):
+        self.__pName=newpName
+    def setpBg(self,newpBg):
+        self.__pBg=newpBg
+    def setpHeight(self,newpHeight):
+        self.__pHeight=newpHeight
+    def setpWeight(self,newpWeight):
+        self.__pWeight=newpWeight
+    def setpCn(self,newpCn):
+        self.__pCn=newpCn
+    def setpEa(self,newpEa):
+        self.__pEa=newpEa
+    def setdate(self,newDate):
+        self.__date=newDate
+    def setpStatus(self,newpStatus):
+        self.__pStatus=newpStatus
+    def setpCaseId(self,newpCaseId):
+        self.__pCaseId=newCaseId
+    def setpAge(self,newpAge):
+        self.__pAge=newpAge
+
+    text_file=open("assignment_trial.txt")
+    for line in text_file:
+        line=line.rstrip()
+
+        if user_input in line:
+            i=line.split(",")
+            print("Patient name is: ",i[1])
+            break
+    text_file.close()

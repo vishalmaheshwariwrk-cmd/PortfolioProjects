@@ -1,0 +1,644 @@
+dividing the cases 
+ACTIVE 
+4 in each, two from each  zone
+
+ATO
+
+1
+Name- August Lawrence
+DOB-16052001
+Age-19
+Contact-
+Email-august52@gmail.com
+Height-170	
+Weight- 52
+Zone-North
+Staff-  no
+Test 1- N
+Test 2-N
+Test 3-N
+Status-
+
+2
+Name- Amelia Miles
+DOB-13042000
+Age-20
+Contact-4994030731
+Email-
+Height-150
+Weight-45	
+Zone-South
+Staff- no
+Test 1-N
+Test 2-N
+Test 3-P
+Status-
+
+3
+Name- Theodore Tran
+DOB- 01011978
+Age-42
+Contact-4052883273
+Email-
+Height-188	
+Weight-71	
+Zone-East
+Staff- no
+Test 1-P
+Test 2-
+Test 3-
+Status-
+
+4
+Name-Charlotte Wong
+DOB-13041999
+Age-21
+Contact-
+Email-Charlotte99@gmail.com
+Height-155
+Weight-49
+Zone-West
+Staff- no
+Test 1- N
+Test 2- P 
+Test 3-
+Status-
+
+DONE
+
+ACC
+
+5
+Name-Lucas Cooper
+DOB-1408/2015
+Age-5
+Contact-9038871998
+Email-
+Height-80
+Weight-20
+Zone-North
+Staff- no
+Test 1-N
+Test 2-N
+Test 3-P
+Status-
+
+6
+Name-Layla Carey
+DOB-04122010
+Age-10
+Contact-3699944253
+Email-
+Height-120
+Weight-45
+Zone-South
+Staff- no
+Test 1-N
+Test 2-N
+Test 3-N
+Status-
+
+7
+Name-Caleb Jackson
+DOB-03041989
+Age-31
+Contact-889435601
+Email-
+Height-165
+Weight-65
+Zone-East
+Staff- no
+Test 1-P
+Test 2-N
+Test 3-N
+Status-
+
+8
+Name-Esme Cunningham
+DOB-31011998
+Age-22
+Contact-0868975630
+Email-
+Height-156
+Weight-46
+Zone-West
+Staff- no
+Test 1- N
+Test 2-P
+Test 3-N
+Status-
+
+AEO
+
+9
+Name-Jasper Robertson
+DOB-28021977
+Age-43
+Contact-08675630
+Email-
+Height-188
+Weight-78
+Zone-North
+Staff- no
+Test 1-N
+Test 2-N
+Test 3-P
+Status-
+
+10
+Name-Ava Campbell
+DOB-27041999
+Age-21
+Contact-6023548901
+Email-
+Height-150
+Weight-56
+Zone-South
+Staff- no
+Test 1-P
+Test 2-N
+Test 3-N
+Status-
+
+11
+Name-Leo Burgess
+DOB-04051967
+Age-53
+Contact-0210209289
+Email-
+Height-160
+Weight-43
+Zone-East
+Staff- no
+Test 1-N
+Test 2-P
+Test 3-N
+Status-
+
+12
+Name-Luna Armstrong
+DOB-06092009
+Age-11
+Contact-0221099889
+Email-
+Height-100
+Weight-25
+Zone-West
+Staff- no
+Test 1-N
+Test 2-N
+Test 3-P
+Status-
+
+SID
+
+13
+Name-Oliver Mcdaniel
+DOB-07092007
+Age-13
+Contact-
+Email-Oliverm@gmail.com
+Height-99
+Weight-30
+Zone-North
+Staff- no
+Test 1-P
+Test 2-N
+Test 3-N
+Status-
+
+14
+Name-Aurora Klien
+DOB-30091997
+Age-23
+Contact-
+Email-aurorak@hotmail.com
+Height-169
+Weight-60
+Zone-South
+Staff- no
+Test 1-N
+Test 2-P
+Test 3-N
+Status-
+
+15
+Name-Benjamin Hughes
+DOB-07101987
+Age-33
+Contact-0978432650
+Email-
+Height-178
+Weight-89
+Zone-East
+Staff- no
+Test 1-N
+Test 2-N
+Test 3-P
+Status-
+
+16
+Name-Adeline Delgado
+DOB-14051986
+Age-34
+Contact-
+Email-a.delgado@yahoo.com
+Height-160
+Weight-58
+Zone-West
+Staff- no
+Test 1-P
+Test 2-N
+Test 3-N
+Status-
+
+AHS
+
+17
+Name-Ace Lang
+DOB-12072000
+Age-20
+Contact-6089325681
+Email-
+Height-155
+Weight-55
+Zone-North
+Staff- yes
+Test 1-N
+Test 2-P
+Test 3-
+Status-
+
+18
+Name-Esther Oliver
+DOB-18031967
+Age-53
+Contact-0234562108
+Email-
+Height-170
+Weight-50
+Zone-South
+Staff- yes
+Test 1-N
+Test 2-N
+Test 3-P
+Status-
+
+19
+Name-Emmet Reid
+DOB-07081995
+Age-25
+Contact-8943568213
+Email-
+Height-167
+Weight-67
+Zone-East
+Staff- yes
+Test 1-N
+Test 2-N
+Test 3-P
+Status-
+
+20
+Name-Vivienne Pena
+DOB-19081994
+Age-26
+Contact-
+Email-vivienne@gmail.com
+Height-150
+Weight-50
+Zone-West
+Staff- yes
+Test 1-P
+Test 2-N
+Test 3-N
+Status-
+
+
+RECOVERED 
+3 IN EACH 
+
+ATO
+
+21
+Name-Grayson Mann
+DOB-19091999
+Age-21
+Contact-1898009876
+Email-
+Height-189
+Weight-80
+Zone-North
+Staff- 
+Test 1-N
+Test 2-P
+Test 3-N
+Status-
+
+22
+Name-Scarlett Nichols
+DOB-14091996
+Age-24
+Contact-
+Email-scar.n@gmail.com
+Height-154
+Weight-49
+Zone-South
+Staff- 
+Test 1-N
+Test 2-N
+Test 3-P
+Status-
+
+23
+Name-Leland Carroll
+DOB-17042000
+Age-20
+Contact-2000123204
+Email-
+Height-145
+Weight-54
+Zone-East
+Staff- 
+Test 1-P
+Test 2-
+Test 3-
+Status-
+
+ACC
+
+24
+Name-Acacia Stephens
+DOB-17121980
+Age-40
+Contact-
+Email-Aca.steph@hotmail.com
+Height-172
+Weight-67
+Zone-West
+Staff- 
+Test 1-N
+Test 2-P
+Test 3-N
+Status-
+
+25
+Name-Miles Parsons
+DOB-12031999
+Age-21
+Contact-3245764312
+Email-
+Height-168
+Weight-58
+Zone-North
+Staff- 
+Test 1-N
+Test 2-N
+Test 3-P
+Status-
+
+26
+Name-Clara Moss
+DOB-12121997
+Age-23
+Contact-
+Email-clars.moss@yahoo.com
+Height-180
+Weight-68
+Zone-South
+Staff- 
+Test 1-P
+Test 2-N
+Test 3-N
+Status-
+
+AEO
+
+27
+Name-Dean Kennedy
+DOB-04051999
+Age-21
+Contact-2345654321
+Email-
+Height-178
+Weight-65
+Zone-East
+Staff- 
+Test 1-N
+Test 2-P
+Test 3-N
+Status-
+
+28
+Name-Maeve Ferguson
+DOB-12031996
+Age-24
+Contact-2319962134
+Email-
+Height-140
+Weight-65
+Zone-West
+Staff- 
+Test 1-N
+Test 2-N
+Test 3-P
+Status-
+
+29
+Name-Vivian Rice
+DOB-12071995
+Age-25
+Contact-
+Email-vivian@yahoo.com
+Height-156
+Weight-56
+Zone-North
+Staff- 
+Test 1-P
+Test 2-N
+Test 3-N
+Status-
+
+_____________________
+DONE TILL HERE
+_____________________
+SID
+
+30
+Name-Isaac Park
+DOB-16082000
+Age-20
+Contact-
+Email-isaac@gmail.com
+Height-189
+Weight-78
+Zone-South
+Staff- 
+Test 1-N
+Test 2-P
+Test 3-N
+Status-
+
+31
+Name-Jack Bull
+DOB-14111999
+Age-21
+Contact-jackb@yahoo.com
+Email-
+Height-176
+Weight-67
+Zone-East
+Staff- 
+Test 1-N
+Test 2-N
+Test 3-P
+Status-
+
+32
+Name-Acadia Burton
+DOB-13121987
+Age-33
+Contact-0265431234
+Email-
+Height-154
+Weight-45
+Zone-West
+Staff- 
+Test 1-P
+Test 2-N
+Test 3-N
+Status-
+
+AHS
+
+34
+Name-Aiden Sandoval
+DOB-18021992
+Age-28
+Contact-9087563214
+Email-
+Height-160
+Weight-60
+Zone-North
+Staff- yes
+Test 1-N
+Test 2-P
+Test 3-N
+Status-
+
+34
+Name-Adalynn Carey
+DOB-18121992
+Age-28
+Contact-
+Email-AdalynnC@gmail.com
+Height-160
+Weight-56
+Zone-East
+Staff- yes
+Test 1-N
+Test 2-N
+Test 3-P
+Status-
+
+35
+Name-Ron Conner
+DOB-12121999
+Age-21
+Contact-1243568721
+Email-
+Height-156
+Weight-52
+Zone-West
+Staff- yes
+Test 1-P
+Test 2-N
+Test 3-N
+Status-
+
+DEAD
+1 in each 
+ATO
+
+36
+Name-Lara Newton
+DOB-12031998
+Age-22
+Contact-2431253213
+Email-
+Height-123
+Weight-32
+Zone-North
+Staff- no
+Test 1-N
+Test 2-N
+Test 3-P
+Status-
+
+ACC
+
+37
+Name- Lana Rhodes
+DOB-12111999
+Age-21
+Contact-6996692176
+Email-
+Height-155
+Weight-55
+Zone-West
+Staff- no
+Test 1-N
+Test 2-P
+Test 3-N
+Status-
+
+AEO
+
+38
+Name- Railey Reed
+DOB-14021993
+Age-27
+Contact-9687543102
+Email-
+Height-145
+Weight-54
+Zone-North
+Staff- no
+Test 1-N
+Test 2-N
+Test 3-P
+Status-
+
+SID
+
+39
+Name- Reed Holt
+DOB-17092000
+Age-20
+Contact-4356873210
+Email-
+Height-178
+Weight-65
+Zone-South
+Staff- no
+Test 1-P
+Test 2-
+Test 3-
+Status-
+
+AHS
+
+40
+Name- Kendra Lust
+DOB-30011998
+Age-23
+Contact-2145321267
+Email-
+Height-176
+Weight-67
+Zone-West
+Staff- yes
+Test 1-N
+Test 2-P
+Test 3-
+Status-

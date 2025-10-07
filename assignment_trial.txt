@@ -1,0 +1,40 @@
+P1,August Lawrence,16052001,19,,august52@gmail.com,170,52,ATO,North,no
+P2,Amelia Miles,13042000,20,4994030731,,150,45,ATO,South,no
+P3,Theodore Tran,01011978,42,4052883273,,188,71,ATO,East,no
+P4,Charlotte Wong,13041999,21,,charlotte99@gmail.com,155,49,ATO,West,no
+P5,Lucas Cooper,14082000,20,9038871998,,165,56,ACC,North,no
+P6,Layla Carey,04122010,10,3699944253,,120,45,ACC,South,no
+P7,Caleb Jackson,03041989,31,8894356011,,165,56,ACC,East,no
+P8,Esme Cunningham,31011998,22,0868975630,,156,56,ACC,West,no
+P9,Jasper Robertson,28021977,43,0867566300,,188,78,AEO,North,no
+P10,Ava Campbell,27041999,21,6023548901,,150,56,AEO,South,no
+P11,Leo Burgess,04051967,53,0210209289,,160,43,AEO,East,no
+P12,Luna Armstrong,06092009,11,0221099889,,100,25,AEO,West,no
+P13,Oliver Mcdaniel,07092007,13,,oliverm@gmail.com,99,30,SID,North,no
+P14,Aurora Klien,30091997,23,,aurorak@hotmail.com,169,60,SID,South,no
+P15,Benjamin Hughes,07101987,33,0978432650,,178,89,SID,East,no
+P16,Adeline Delgado,14051986,34,,a.algado@yahoo.com,160,58,SID,South,no
+P17,Ace Lang ,12072000,20,6089325681,,155,55,AHS,North,yes
+P18,Esther Oliver,18031967,53,0234562108,,170,50,AHS,South,yes
+P19,Emmet Reid,07081995,25,8943568213,,167,56,AHS,West,yes
+P20,Vivienne Pena,19081994,26,,vivienne@gmail.com,150,50,AHS,West,yes
+P21,Grayson Mann,19091999,21,1898009876,,189,80,ATO,North,no
+P22,Scarlett Nichols,14091996,24,,scar.n@gmail.com,154,49,ATO,West,no
+P23,Leland Carroll,17042000,20,2001230204,,145,54,ATO,East,no
+P24,Acacia Stephens,17121980,40,,Aca.steph@hotmail.com,172,67,ACC,North,no
+P25,Miles Parsons,12031999,21,3245763312,,168,58,ACC,North,no
+P26,Clara Moss,12121997,23,,clars.moss@yahoo.com,180,68,ACC,South,no
+P27,Dean Kennedy,04051999,21,2345654321,,178,65,AEO,East,no
+P28,Maeve Ferguson,12031996,24,2319962134,,140,65,AEO,West,no
+P29,Vivan Rice,12071995,25,,vivian@yahoo.com,156,56,AEO,North,no
+P30,Isaac Park,16082000,20,,isaac@gmail.com,189,78,SID,South,no
+P31,Jack Bull,14111999,21,,jackb@yahoo.com,176,67,SID,East,no
+P32,Acadia Burton,13121987,33,0265431234,,154,45,SID,West,no
+P33,Aiden Sandoval,18021992,28,90875632214,,160,60,AHS,North,yes
+P34,Adalynn Carey,18121992,28,,AdalynnC@gmail.com,160,56,AHS,South,yes
+P35,Ron COnner,12121999,21,1234567821,,156,52,AHS,North,yes
+P36,Lara Newton ,12031998,22,2431253213,,123,32,AHS,South,yes
+P37,Lana Rhodes,12111999,21,6996692176,,155,55,ACC,West,no
+P38,Railey Reed,14021993,27,9687543102,,145,54,AEO,South,no
+P39,Reed Holt,17092000,20,4356873210,,178,68,SID,East,no
+P40,Kendra Lust ,30011998,23,2145321673,,167,76,ATO,North,no
